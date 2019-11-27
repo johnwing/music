@@ -41,7 +41,7 @@ enum MidiChannelMode {
 /**
  * Blocks to simulate MIDI instruments.
  */
-//% weight=85 icon="\uf001" color="#5ea9dd"
+//% weight=0 icon="\uf001" color="#5ea9dd"
 //% groups='["Play", "Constants", "Channels", "Transports"]'
 namespace midi {
     /**
