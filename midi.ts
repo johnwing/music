@@ -364,11 +364,11 @@ namespace midi {
      * Maps a frequency to a note key
      * @param frequency
      */
-    //% blockId=midi_police block="popo is great" 
+    //% blockId=police block="popo is great" 
     //% shim=midi::police weight=7 blockGap=8
     //% group="Constants"
     export function police(): number {
-        return 
+        return 1
 
     }
 
