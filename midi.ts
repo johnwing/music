@@ -360,16 +360,6 @@ namespace midi {
     }
 
 
-    /**
-     * Maps a frequency to a note key
-     * @param frequency
-     */
-    //% blockId=police block="popo is great" 
-    //% group="Constants"
-    export function police(): number {
-        return 1;
-
-    }
 
 
 
