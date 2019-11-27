@@ -365,7 +365,6 @@ namespace midi {
      * @param frequency
      */
     //% blockId=police block="popo is great" 
-    //% shim=midi::police weight=7 blockGap=8
     //% group="Constants"
     export function police(): number {
         return 1;
