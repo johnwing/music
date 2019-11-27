@@ -368,7 +368,7 @@ namespace midi {
     //% shim=midi::police weight=7 blockGap=8
     //% group="Constants"
     export function police(): number {
-        return 1
+        return 1;
 
     }
 
